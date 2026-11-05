@@ -1,5 +1,4 @@
 ﻿namespace DeadlockLab;
-
 public class DeadlockDemo
 {
     public static void Run()
