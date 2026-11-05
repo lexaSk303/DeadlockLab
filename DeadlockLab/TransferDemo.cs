@@ -1,8 +1,4 @@
-﻿using System;
-using System.Threading.Tasks;
-
-namespace DeadlockLab;
-
+﻿namespace DeadlockLab;
 public class TransferDemo
 {
     public static async Task RunSafeAsync()

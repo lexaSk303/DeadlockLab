@@ -1,5 +1,4 @@
 ﻿namespace DeadlockLab;
-
 public class BankAccount
 {
     private static int _nextId;

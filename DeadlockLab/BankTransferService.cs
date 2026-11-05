@@ -1,5 +1,4 @@
 ﻿namespace DeadlockLab;
-
 public class BankTransferService
 {
     public void TransferSafe(BankAccount from, BankAccount to, decimal amount)
